@@ -28,26 +28,25 @@ Besides that, I'd recommend 2 things:
   * String edit distance (helps you solve a whole class of string matching problems, like RegEx matching, etc. I found [this](https://www.youtube.com/watch?v=8Q2IEIY2pDU) video and [this](https://www.youtube.com/watch?v=eAVGRWSryGo) video to be really helpful, both from a Coursera course on gene sequencing)
   * The Knapsack problem (covered in the workshop)
   * The Longest Common Subsequence algorithm
-   Many dynamic programming problems are slight variations on some of the above.
 
 ## Curated practice problems
 Here I've listed some of my favorite dynamic programming problems on leetcode (and a couple from Project Euler), ordered by difficulty.
 
 #### Easier problems
-These are pretty similar to the ones we did in workshop (with 1 dimension)
-1. [Climbing stairs](https://leetcode.com/problems/climbing-stairs/) (similar to a problem covered in workshop)
-2. [House robber](https://leetcode.com/problems/house-robber/) (covered in workshop)
-3. [Stock selling](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) (a variant on classic DP principles)
-4. [Max sum subarray](https://leetcode.com/problems/maximum-subarray/) (a little more difficult)
+These are pretty similar to the ones we did in workshop (with 1 dimension)  
+1. [Climbing stairs](https://leetcode.com/problems/climbing-stairs/) (similar to a problem covered in workshop)  
+2. [House robber](https://leetcode.com/problems/house-robber/) (covered in workshop)  
+3. [Stock selling](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) (a variant on classic DP principles)  
+4. [Max sum subarray](https://leetcode.com/problems/maximum-subarray/) (a little more difficult)  
 
 #### Medium-ish problems
-I tried to include some 2 dimensional problems here, as well as more complex string / sequence problems.
-1. [Subsequence check](https://leetcode.com/problems/is-subsequence/) (First introduction to string comparison dynamic programming)
-2. [Longest wiggle subsequence](https://leetcode.com/problems/wiggle-subsequence/) (More sequence/subsequence practice)
-3. [Min path sum](https://leetcode.com/problems/minimum-path-sum/) (An introduction to (usually contrived) pathfinding DP problems)
-4. [More pathfinding](https://projecteuler.net/problem=82) (Slightly harder pathfinding)
-5. [Coin change](https://leetcode.com/problems/coin-change/) (Another classic)
-6. [Min perfect square sum](https://leetcode.com/problems/perfect-squares/) (Good 2d problem)
+I tried to include some 2 dimensional problems here, as well as more complex string / sequence problems.  
+1. [Subsequence check](https://leetcode.com/problems/is-subsequence/) (First introduction to string comparison dynamic programming)  
+2. [Longest wiggle subsequence](https://leetcode.com/problems/wiggle-subsequence/) (More sequence/subsequence practice)  
+3. [Min path sum](https://leetcode.com/problems/minimum-path-sum/) (An introduction to (usually contrived) pathfinding DP problems)  
+4. [More pathfinding](https://projecteuler.net/problem=82) (Slightly harder pathfinding)  
+5. [Coin change](https://leetcode.com/problems/coin-change/) (Another classic)  
+6. [Min perfect square sum](https://leetcode.com/problems/perfect-squares/) (Good 2d problem)  
 
 #### Hard problems
 An assortment of problems of the more difficult variety.
