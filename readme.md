@@ -2,16 +2,16 @@
 This repository contains materials for a workshop on dynamic programming given at the Recurse Center on October 6, 2016. It includes source code for all examples discussed, the presentation document, and most importantly, a list of resources / tips in this readme.
 
 ## How to get good at dynamic programming
-More so than with other types of algorithmic problems, the best way to get good at dynamic\
+More so than with other types of algorithmic problems, the best way to get good at dynamic
 programming is practice. The reason for this is two-fold:
 
 1. It takes some built-up pattern recognition to get used to identifying problem sub-structure
 2. Dynamic programming solutions tend to be more customized than solutions to other types of problems
 
-To elaborate on the second point, I'd like to draw a contrast between graph algorithms and dynamic programming.\
-When it comes to solving graph related programming problems, almost everything can be solved\
-with some variation of search (breadth-first or depth-first), or rarely topological sort.\
-There's no such "core" algorithm for dynamic programming problems; you generally have to tailor\
+To elaborate on the second point, I'd like to draw a contrast between graph algorithms and dynamic programming.
+When it comes to solving graph related programming problems, almost everything can be solved
+with some variation of search (breadth-first or depth-first), or rarely topological sort.
+There's no such "core" algorithm for dynamic programming problems; you generally have to tailor
 your algorithm very specifically to the problem you're solving.
 
 ## Resources for learning and practicing
