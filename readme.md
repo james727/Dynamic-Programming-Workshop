@@ -1,7 +1,5 @@
 # Dynamic programming workshop
-This repository contains materials for a workshop on dynamic programming given at the Recurse Center\
-on October 6, 2016. It includes source code for all examples discussed, the presentation document,\
-and most importantly, a list of resources / tips in this readme.
+This repository contains materials for a workshop on dynamic programming given at the Recurse Center on October 6, 2016. It includes source code for all examples discussed, the presentation document, and most importantly, a list of resources / tips in this readme.
 
 ## How to get good at dynamic programming
 More so than with other types of algorithmic problems, the best way to get good at dynamic\
@@ -17,9 +15,9 @@ There's no such "core" algorithm for dynamic programming problems; you generally
 your algorithm very specifically to the problem you're solving.
 
 ## Resources for learning and practicing
-In terms of learning the ideas and theory behind dynamic programming, I'd like to recommend\
-the lectures in part 2 of the [Stanford Algorithms course on Coursera](https://www.coursera.org/learn/algorithm-design-analysis-2).\
-You can skip right to the dynamic programming lectures, they're in week 3. A lot of the materials for\
+In terms of learning the ideas and theory behind dynamic programming, I'd like to recommend
+the lectures in part 2 of the [Stanford Algorithms course on Coursera](https://www.coursera.org/learn/algorithm-design-analysis-2).
+You can skip right to the dynamic programming lectures, they're in week 3. A lot of the materials for
 this workshop were drawn from these lectures so some things will be familiar.
 
 Besides that, I'd recommend 2 things:
