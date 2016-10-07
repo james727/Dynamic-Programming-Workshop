@@ -22,7 +22,8 @@ def dynamic_fibonacci( n ):
 
 memoizer = {}
 def memoizing_fibonacci( n ):
-    # Calculates the nth Fibonacci number recursively with memoization (top-down)
+    # Calculates the nth Fibonacci number recursively
+    # with memoization (top-down)
     global memoizer
     try: return memoizer[ n ]
     except KeyError:
